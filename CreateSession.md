@@ -4,7 +4,13 @@
 
 # CreateSession 및  URL PATH 영역 
 
-> 유효성 검사를 통과하면 티켓 데이터를 가져오기 위해 Session을 만듭니다.
+> 유효성 검사를 통과시 티켓 데이터를 가져오기 위한 세션 생성
+
+<br/>
+
+### [SkyPrinter 바로가기](https://github.com/HYEOK999/skyprinter)
+
+<br/>
 
 ## 목차
 
