@@ -4,7 +4,7 @@
 
 # Filter 영역
 
-> SkyPrinter 검색 영역 
+> SkyPrinter Ticket Result Filter Area 
 
 ## 목차
 
