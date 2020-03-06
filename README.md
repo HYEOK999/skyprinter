@@ -117,8 +117,8 @@
 - 메인 페이지 전체적인 레이아웃 및 퍼블리싱
 - 검색 영역 및 재검색 영역 퍼블리싱 및 기능 구현(재검색 기능 포함) ([SearchBox](./SearchBox.md) 참조)
 - 검색 영역 페이지 에러 박스 퍼블리싱 및 검색에 대한 유효성 검사 기능 구현  ([ErrorBox](./ErrorBox.md) 참조)
-- `session` 생성 기능, URL 공유 기능 ([CreateSession](./CreateSession.md) 참조)
-- 프로그레스바 퍼블리싱 및 기능 구현  ([ProgressBar](./ProgressBar.md) 참조)
+- `session` 생성 기능, URL 공유 기능 ([CreateSession](./CreateSession.md), [FilterArea](./FilterArea.md) 참조)
+- 프로그레스바 퍼블리싱 및 기능 구현  ([ProgressBar](./ProgressBar.md) 참조, [FilterArea](./FilterArea.md) 참조)
 - 티켓 검색 결과 페이지 필터 영역 퍼블리싱 및 기능 구현  ([FilterArea](./FilterArea.md) 참조)
 
 <br/>
