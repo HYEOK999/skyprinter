@@ -100,7 +100,7 @@
 
 **해당 사이트는 AWS의 S3 버킷을 통해 배포되고 있습니다.** 
 
-[<img width="800" alt="aws-skyprinter" src="https://user-images.githubusercontent.com/31315644/76089857-cda92380-5ffd-11ea-9bc7-f9776bdd909e.png">](http://hyeok999-skyprinter.s3-website.ap-northeast-2.amazonaws.com/)
+[![skyprinter-shortcut](https://user-images.githubusercontent.com/31315644/76367572-ccb32180-6370-11ea-8e11-99b7430725ee.jpeg)](http://hyeok999-skyprinter.s3-website.ap-northeast-2.amazonaws.com/)
 
 **( 이미지 클릭 시 구현 사이트로 이동됩니다. )**
 
