@@ -96,13 +96,17 @@
 
 <br/>
 
-### 11. 구현 사이트 바로가기
+### ~~11. 구현 사이트 바로가기~~
 
-**해당 사이트는 AWS의 S3 버킷을 통해 배포되고 있습니다.** 
+> 2020년 4월부로 SkyScanner에서 API 제공을 마감했습니다.
+>
+> 따라서, AWS 배포를 중지합니다.
 
-[![skyprinter-shortcut](https://user-images.githubusercontent.com/31315644/76367572-ccb32180-6370-11ea-8e11-99b7430725ee.jpeg)](http://hyeok999-skyprinter.s3-website.ap-northeast-2.amazonaws.com/)
+~~**해당 사이트는 AWS의 S3 버킷을 통해 배포되고 있습니다.**~~
 
-**( 이미지 클릭 시 구현 사이트로 이동됩니다. )**
+![skyprinter-shortcut](https://user-images.githubusercontent.com/31315644/76367572-ccb32180-6370-11ea-8e11-99b7430725ee.jpeg)
+
+~~**( 이미지 클릭 시 구현 사이트로 이동됩니다. )**~~
 
 <br/>
 
